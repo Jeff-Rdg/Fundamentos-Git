@@ -1,4 +1,4 @@
-# Fundamentos do Git e Azure DevOps
+# Fundamentos do Git
 ## **Controle de versão**
 ### Controle de versão local
 #### Setup
@@ -11,7 +11,7 @@
    - git log
 ## **Controle de versão Remoto**
 ### Enviando repositorio local para um remoto
-   - git remote *https://usuario@dev.azure.com/usuario/Fundamentsgit/_git/Fundamentsgit* (Exemplo)
+   - git remote *https://github.com/FundamentsGit/* (Exemplo)
    - git push
 ### Copiando um repositorio remoto
    - git clone      
@@ -20,7 +20,10 @@
    - git pull
 #### Ramificando o projeto
    - git branch
+      - informa a branch que você está
    - git checkout
-   
+      - git checkout -b novafeature *cria nova branch*
+
+
                 
         
