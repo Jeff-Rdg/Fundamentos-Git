@@ -11,8 +11,7 @@
    - git log
 ## **Controle de versão Remoto**
 ### Enviando repositorio local para um remoto
-   - git remote 
-       "https://usuario@dev.azure.com/usuario/Fundamentsgit/_git/Fundamentsgit"
+   - git remote <https://usuario@dev.azure.com/usuario/Fundamentsgit/_git/Fundamentsgit>
    - git push
 ### Copiando um repositorio remoto
    - git clone      
